@@ -1,7 +1,7 @@
 # Git-and-GitHub
 
 
-##  Create a new branch for this commit and start a pull request
+##  Create a new branch for this commit and start a pull request (GitHub)
 
 
 ### 1. https://www.youtube.com/watch?v=OHV64qh-uyY&list=PLW1OMpQZxu7zLAnsoBuGp67E29E-x1VAF&index=2 (Create a Pull Request on Github)
