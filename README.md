@@ -13,3 +13,6 @@
 ### 4. https://www.youtube.com/watch?v=WSWnch-SyPM (Create Branch in GitHub | Pull Request in GitHub | Merge Pull Request in GitHub | Master Branch)
 
 ### 5. https://www.youtube.com/watch?v=MIMWtv72zeU (What is Branch & Why need & How to Create a Branch in GitHub)
+
+### 6. https://www.youtube.com/watch?v=hRxAn3qgc2c (How to Create Branch in GitHub)
+
