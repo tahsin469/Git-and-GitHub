@@ -26,5 +26,7 @@
 
 ### 11. https://www.youtube.com/watch?v=l5NrYIa_aG4 (GitHub Fork)
 
+### 12. https://www.youtube.com/watch?v=xjC4XkS-KQU&list=PLhYh4z0Z_vJvXhK3eeT-w5cj-3LTFUss9&index=3 (How to resolve conflicts in Github)
+
 
 
