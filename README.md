@@ -14,9 +14,9 @@
 
 ### 5. https://www.youtube.com/watch?v=MIMWtv72zeU (What is Branch & Why need & How to Create a Branch in GitHub)
 
-### 6. https://www.youtube.com/watch?v=hRxAn3qgc2c (How to Create Branch in GitHub)
+### 6. https://www.youtube.com/watch?v=5xVBJBwl3Jw&list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi&index=3 (How to create repository in GitHub?)
 
-### 7. https://www.youtube.com/watch?v=5xVBJBwl3Jw&list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi&index=3 (How to create repository in GitHub?)
+### 7. https://www.youtube.com/watch?v=hRxAn3qgc2c (How to Create Branch in GitHub)
 
 ### 8. https://www.youtube.com/watch?v=MM-QT6h_Pfs&list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi&index=5 (How to Start Contributing to Open Source || Forking in GitHub)
 
