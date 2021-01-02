@@ -28,5 +28,7 @@
 
 ### 12. https://www.youtube.com/watch?v=xjC4XkS-KQU&list=PLhYh4z0Z_vJvXhK3eeT-w5cj-3LTFUss9&index=3 (How to resolve conflicts in Github)
 
+### 13. https://www.youtube.com/watch?v=JtIX3HJKwfo&t=1s (Resolving Merge Conflicts)
+
 
 
