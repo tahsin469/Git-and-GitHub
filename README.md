@@ -30,5 +30,7 @@
 
 ### 13. https://www.youtube.com/watch?v=JtIX3HJKwfo&t=1s (Resolving Merge Conflicts)
 
+### 14. https://www.youtube.com/watch?v=sSD9jroO53Y (How to Merge and Delete Branches)
+
 
 
